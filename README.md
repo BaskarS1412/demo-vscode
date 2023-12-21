@@ -1,2 +1,4 @@
-#day one
-kgk
+```javascript
+let sting = "hello world";
+console.log(string);
+```
